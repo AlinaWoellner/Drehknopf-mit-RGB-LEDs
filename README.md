@@ -22,14 +22,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -81,8 +73,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Das Projekt
+Die Schaltung auf TinkerCAD:
+![Uploading Schaltung_LED-Leiste.png…]()
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 
@@ -131,25 +124,8 @@ So kommt man eine lokale Kopie des Projekts
   11. Mit dem Drehregler zumspielen
  
 
+
 <!-- CONTACT -->
 ## Kontakt
 
 Project Link: [https://github.com/AlinaWoellner/LED-Reihe](https://github.com/AlinaWoellner/LED-Reihe)
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/AlinaWoellner/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/AlinaWoellner/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AlinaWoellner/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/AlinaWoellner/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/AlinaWoellner/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/AlinaWoellner/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AlinaWoellner/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/AlinaWoellner/repo/issues
-[license-shield]: https://img.shields.io/github/license/AlinaWoellner/repo.svg?style=for-the-badge
-[license-url]: https://github.com/AlinaWoellner/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/AlinaWoellner
