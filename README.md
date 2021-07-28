@@ -74,7 +74,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Das Projekt
 Die Schaltung auf TinkerCAD:
-![Uploading Schaltung_LED-Leiste.png…]()
+![Schaltung_LED-Leiste](https://user-images.githubusercontent.com/82510384/127341124-66ae06f7-26a4-4167-9503-6fd221d3b147.png)
+
 
 
 
@@ -111,7 +112,7 @@ So kommt man eine lokale Kopie des Projekts
 
 <!-- USAGE EXAMPLES -->
 ## Beispielaufbau
-  1.  Ein Kabel mit Pin 2 und dem Din an dem LED-Streifen verbinden
+  1.  Ein Kabel mit Pin 3 und dem Din an dem LED-Streifen verbinden
   2.  Ein Kabel mit dem Minuspol an der Steckplatine und dem GND an dem LED-Streifen verbinden
   3.  Ein Kabel mit dem Minuspol an der Steckplatine und dem Drehregler verbinden
   4.  Ein Kabel mit dem Minuspol an der Steckplatine und dem GND am Arduino UNO verbinden
