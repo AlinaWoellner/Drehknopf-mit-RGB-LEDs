@@ -73,12 +73,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Das Projekt
-Die Schaltung auf TinkerCAD:
-![Schaltung_LED-Leiste](https://user-images.githubusercontent.com/82510384/127341124-66ae06f7-26a4-4167-9503-6fd221d3b147.png)
 
-
-
-
+Dieses Projekt dient dazu sich mit dem Ansteuern von LED-Leisten mit Hilfe eines Arduino UNO vertraut zu machen. 
 
 ### Werkzeuge
 
@@ -90,28 +86,42 @@ Die Schaltung auf TinkerCAD:
 * []()  1 Arduino UNO
 
 #### Programm
-* []()  VS Code
+* []()  Visual Studio Code
 * []()  Platform IO Plugin
-
+* []()  FastLED Library
 
 <!-- GETTING STARTED -->
 ## Einstieg
 
-So kommt man eine lokale Kopie des Projekts
-
 ### Installation
 
-1. Platform IO PLUGIN
+Mit Visual Studio Code:
+1. Visual Studio Code
    ```sh
-   In der Suchleiste von VS Code eingeben und auf den installieren Button klicken
+   GitHUB Erweiterung installieren
+   ```
+1. GitHUB Erweiterung
+   ```sh
+   Projekt klonen
+   ```
+3. Platform IO PLUGIN
+   ```sh
+   In der Suchleiste von VS Code "Platform IO" eingeben und auf den installieren Button klicken
    ```
 2. Projekt erstellen
    ```sh
    Im Plugin auf "import arduino Project" klicken und das geklonte Projekt auswählen
    ```
+1. Visual Studio Code
+   ```sh
+   Build oder direkt Upload per Pfeil
+   ```
 
 <!-- USAGE EXAMPLES -->
 ## Beispielaufbau
+Schaltplan, erstellt mit TinkerCAD:
+![Schaltung_LED-Leiste](https://user-images.githubusercontent.com/82510384/127341124-66ae06f7-26a4-4167-9503-6fd221d3b147.png)
+
   1.  Ein Kabel mit Pin 3 und dem Din an dem LED-Streifen verbinden
   2.  Ein Kabel mit dem Minuspol an der Steckplatine und dem GND an dem LED-Streifen verbinden
   3.  Ein Kabel mit dem Minuspol an der Steckplatine und dem Drehregler verbinden
@@ -120,11 +130,13 @@ So kommt man eine lokale Kopie des Projekts
   6.  Ein Kabel mit dem Pluspol an der Steckplatine und dem Drehregler verbinden
   7.  Ein Kabel mit dem Pluspol an der Steckplatine und den 5V am Arduino UNO verbinden
   8.  Ein Kabel mit dem Drehregler auf der Steckplatne und der A0 am Arduino UNO verbinden
-  9.  Den Arduino UNO pe Kabel mit einem Computer/ Laptop verbinden
-  10. Das Programm in VS Code laden
-  11. Mit dem Drehregler zumspielen
- 
+  9.  Den Arduino UNO per Kabel mit einem Computer/ Laptop verbinden
+  10. Das Programm in VS Code auf den Arduino laden
+  11. Mit dem Drehregler rumspielen und P
 
+
+Foto vom endgültigen 
+ 
 
 <!-- CONTACT -->
 ## Kontakt
