@@ -4,12 +4,12 @@
 #define NUM_LEDS 12 // So viele LEDs hat der Streifen
 #define DATA_PIN 3 // Pin, an dem die LEDs angeschlossen sind
 
-#define DREHREGLER_PIN A0 // Pin, an dem das Potentiometer Angeschlossen ist
+#define DREHREGLER_PIN A0 // Pin, an dem das Potentiometer angeschlossen ist
 
 CRGB leds[NUM_LEDS]; // Array von FastLED Pixel RGB Werten
 /**
- * Um die LEDs pro Led auf eine andere Farbe, über den Ganzen Streifen einmal durch den Hue - Raum durch, zu setzen,
- * wird später für jede LED ein wert vom 0 bis NUM_LEDS errechnet. Für die Einstellung des Hue brauchen wir aber Eerte von 0 bis 255.
+ * Um die LEDs pro Led auf eine andere Farbe, über den ganzen Streifen einmal durch den Hue - Raum durch, zu setzen,
+ * wird später für jede LED ein Wert von 0 bis NUM_LEDS errechnet. Für die Einstellung des Hue brauchen wir aber Werte von 0 bis 255.
  * Indem wir 255 durch unsere Anzahl von LEDs teilen bekommen wir einen Skalar, der mit Werten von 0..NUM_LEDS multipliziert
  * Werte von 0..255 ergibt:
  */
@@ -22,7 +22,7 @@ float offsetIncrement = 0.001; // Statische Schriftgröße für das vergrößern
 void setup() { // Diese Funktion wird bei Programmstart einmal aufgerufen
   Serial.begin(115200); // Datenrate in Bits pro Sekunde
   pinMode(DREHREGLER_PIN, INPUT); // konfiguriert den angegebenen Pin als In- oder Output
-  FastLED.addLeds<WS2812, DATA_PIN, GRB>(leds, NUM_LEDS); // Library um LEDs zu kontrollieren; WS2812 Leds besitzt einen integrierten Controller, die über einen Arduino angessteuert werden können
+  FastLED.addLeds<WS2812, DATA_PIN, GRB>(leds, NUM_LEDS); // Library um LEDs zu kontrollieren; WS2812 Leds besitzt einen integrierten Controller, die über einen Arduino angesteuert werden können
 }
 
 void loop() {   // Ausführung des Programms
