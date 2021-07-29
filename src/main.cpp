@@ -9,9 +9,9 @@
 CRGB leds[NUM_LEDS]; // Array von FastLED Pixel RGB Werten
 /**
  * Um die LEDs pro Led auf eine andere Farbe, über den Ganzen Streifen einmal durch den Hue - Raum durch, zu setzen,
- * wird später für jede LED ein wert vom 0 bis NUM_LEDS errechnet. Für Die einstellung des Hue brauchen wir aber werte von 0 bis 255.
- * Indem wir 255 durch unsere Anzahl von LEDs teilen bekommen wir einen Skalar, der mit werten von 0..NUM_LEDS multipliziert
- * werte von 0..255 ergibt:
+ * wird später für jede LED ein wert vom 0 bis NUM_LEDS errechnet. Für die Einstellung des Hue brauchen wir aber Eerte von 0 bis 255.
+ * Indem wir 255 durch unsere Anzahl von LEDs teilen bekommen wir einen Skalar, der mit Werten von 0..NUM_LEDS multipliziert
+ * Werte von 0..255 ergibt:
  */
 const int huescalar = (255 / NUM_LEDS);  
 
