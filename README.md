@@ -121,15 +121,15 @@ Schaltplan, erstellt mit TinkerCAD:
 ![Schaltung_LED-Leiste](https://user-images.githubusercontent.com/82510384/127341124-66ae06f7-26a4-4167-9503-6fd221d3b147.png)
 
   1.  Ein Kabel mit Pin 3 und dem Din an dem LED-Streifen verbinden
-  2.  Ein Kabel mit dem Minuspol an der Steckplatine und dem GND an dem LED-Streifen verbinden
-  3.  Ein Kabel mit dem Minuspol an der Steckplatine und dem Drehregler verbinden
-  4.  Ein Kabel mit dem Minuspol an der Steckplatine und dem GND am Arduino UNO verbinden
-  5.  Ein Kabel mit dem Pluspol an der Steckplatine und den 5V an dem LED-Streifen verbinden
-  6.  Ein Kabel mit dem Pluspol an der Steckplatine und dem Drehregler verbinden
-  7.  Ein Kabel mit dem Pluspol an der Steckplatine und den 5V am Arduino UNO verbinden
-  8.  Ein Kabel mit dem Drehregler auf der Steckplatne und der A0 am Arduino UNO verbinden
-  9.  Den Arduino UNO per Kabel mit einem Computer/ Laptop verbinden
-  10. Das Programm in VS Code auf den Arduino laden
+  2.  Ein Kabel mit dem Minuspol der Steckplatine und dem GND an dem LED-Streifen verbinden
+  3.  Ein Kabel mit dem Minuspol der Steckplatine und dem Drehregler verbinden
+  4.  Ein Kabel mit dem Minuspol der Steckplatine und dem GND am Arduino UNO verbinden
+  5.  Ein Kabel mit dem Pluspol der Steckplatine und den 5V an dem LED-Streifen verbinden
+  6.  Ein Kabel mit dem Pluspol der Steckplatine und dem Drehregler verbinden
+  7.  Ein Kabel mit dem Pluspol der Steckplatine und den 5V am Arduino UNO verbinden
+  8.  Ein Kabel mit dem Drehregler auf der Steckplatine und der A0 am Arduino UNO verbinden
+  9.  Den Arduino UNO per USB-Kabel mit einem Computer/ Laptop verbinden
+  10. Das Programm in Visual Studio Code auf den Arduino laden
   11. Mit dem Drehregler rumspielen 
 
 Fertiger Aufbau:
