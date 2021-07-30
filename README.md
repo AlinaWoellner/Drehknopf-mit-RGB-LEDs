@@ -135,7 +135,7 @@ Fertiger Aufbau:
 ![LED-Leiste_Aufbau](https://user-images.githubusercontent.com/82510384/127368790-42452b37-afea-4fa0-880f-1992ee742dca.jpg)
 
 Video:
-https://youtu.be/grDoqDZncz4 
+https://youtu.be/DaG-PpOfkf8
 
 
 <!-- CONTACT -->
