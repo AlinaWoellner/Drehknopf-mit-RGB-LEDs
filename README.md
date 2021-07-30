@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Das Projekt
 
-Dieses Projekt dient dazu sich mit dem Ansteuern von LED-Leisten mit Hilfe eines Arduino UNO vertraut zu machen. 
+Dieses Projekt dient dazu sich mit dem Ansteuern von LED-Leisten mit Hilfe eines Arduino UNO vertraut zu machen 
 
 ### Werkzeuge
 
