@@ -32,14 +32,12 @@
   <p align="center">
     Eine Übung zum Steuern eines LED-Streifens mit dem Arduino UNO
     <br />
-    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs">View Demo</a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs">Dokumentation</a>
     ·
-    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Report Bug</a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Fehlerbericht</a>
     ·
-    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Request Feature</a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Verbesserungsvorschlag</a>
   </p>
 </p>
 
