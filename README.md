@@ -27,19 +27,19 @@
 <br />
 <p align="center">
 
-  <h3 align="center">LED-Reihe</h3>
+  <h3 align="center">Drehknopf-mit-RGB-LEDs</h3>
 
   <p align="center">
     Eine Übung zum Steuern eines LED-Streifens mit dem Arduino UNO
     <br />
-    <a href="https://github.com/AlinaWoellner/LED-Reihe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AlinaWoellner/LED-Reihe">View Demo</a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs">View Demo</a>
     ·
-    <a href="https://github.com/AlinaWoellner/LED-Reihe/issues">Report Bug</a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AlinaWoellner/LED-Reihe/issues">Request Feature</a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Request Feature</a>
   </p>
 </p>
 
@@ -142,4 +142,4 @@ https://youtu.be/grDoqDZncz4
 <!-- CONTACT -->
 ## Kontakt
 
-Projekt Link: [https://github.com/AlinaWoellner/LED-Reihe](https://github.com/AlinaWoellner/LED-Reihe)
+Projekt Link: [https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs](https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDse)
